@@ -3,9 +3,7 @@ body {
     font-size:24 pt;
 }
 
-h1 {
-    color: white;
-    background-color: maroon; }   
+h1 { color: red; }   
 
 em {
     background-color:lightyellow;
