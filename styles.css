@@ -4,17 +4,17 @@ body {
 }
 
 h1 {
-    background-color: maroon;
-    color: white;
+    background-color: red;
+    color:white;
 }   
 
 em {
-    background-color: lightyellow;
-    color: darkorange; 
+    background-color:lightyellow;
+    color:darkorange; 
 }
 
 img {
-    background-color: whitesmoke;
+    background-color:whitesmoke;
     padding: 1 em;
     margin-top: 2 em;
     margin-bottom: 2 em;
