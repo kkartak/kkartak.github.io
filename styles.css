@@ -9,7 +9,7 @@ h1 {
 }   
 
 em {
-    background-color: lightgoldenrodyellow;
+    background-color: lightyellow;
     color: darkorange; 
 }
 
@@ -25,5 +25,5 @@ img {
 
 h2, strong {
     background-color: lightgreen;
-    color: darkslategrey;
+    color: gray;
 }
