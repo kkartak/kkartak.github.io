@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24 pt;
+}
+
+h1 {
+    background-color: maroon;
+    color: white;
+}
+
+cite {
+    background-color: lightgoldenrodyellow;
+    color: darkorange; 
+}
+
+img {
+    background-color: whitesmoke;
+    padding: 1 em;
+    margin-top: 2 em;
+    margin-bottom: 2 em;
+    margin-left: 2 em;
+    margin-right: 2 em;
+    border:1 px solid lightgray
+}
+
+strong {
+    background-color: lightgreen;
+    color: darkslategrey;
+}
