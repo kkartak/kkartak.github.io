@@ -6,9 +6,9 @@ body {
 h1 {
     background-color: maroon;
     color: white;
-}
+}   
 
-cite {
+em {
     background-color: lightgoldenrodyellow;
     color: darkorange; 
 }
