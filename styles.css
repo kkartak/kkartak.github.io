@@ -23,7 +23,7 @@ img {
     border:1 px solid lightgray
 }
 
-strong {
+h2, strong {
     background-color: lightgreen;
     color: darkslategrey;
 }
