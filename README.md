@@ -1,1 +1,0 @@
-# kkartak.github.io
