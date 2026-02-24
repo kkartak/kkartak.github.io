@@ -1,4 +1,4 @@
-# AI as a Co-author: Does it provide benefit, or is it taking away from individual creativity?
+# AI as a Co-author: Is it beneficial for writers, or is it taking away from individual creativity?
 
 ## Can it be Useful?
 
