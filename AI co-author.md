@@ -10,6 +10,10 @@ Often, the AI gets the bigger picture of the request I've asked it to generate i
 
 ## AI's overall writing style and bias
 
+Personally, I felt the writing style for AI was very shallow in terms of providing narrative, personal insight, or thought-provoking content. For instance, it often did paragraph-length sections, which is a standard way of writing a fact-based paper, but it would only provide minimal information, add an in-text quote, and then follow it up with a brief comment on the quote and how it could be relevant to their argument. Another problem I noted was its use of adding headers to each paragraph or section it wrote, even though I asked it to write an essay, which is not a standard way for humans to write their essays. Regarding the AI's bias, I didn't see much in its writing. It was written in a fairly neutral tone throughout and never explicitly expressed strong opinions at either end of the spectrum. Which can be helpful if I wish to have a second helper to brainstorm without being given only one side or their biased opinion.
+
+Overall, I don't think AI is necessarily bad as a co-author if the people using it are using responsible with what they are actually using the AI for; is it for having it do the work for you, or are you simply using it to get some advice or ideas on what to write for your essay, in my paper all of the quotes and facts cited were of really sources and had all the information needed for an APA style citation. It wasn't all that great at its actual ability to write deeply about subjects given to it, which checks out for something still so young in the digital world. I think it can and will be useful in the future, that I have no doubt.
+
 ## AI-Generated Essay Prompt
 
 ## The Efficiency of Brevity: Reducing Operational Friction with Minimum Viable Documentation
