@@ -1,6 +1,8 @@
 # AI as a Co-author: Is it beneficial for writers, or is it taking away from individual creativity?
 
-## Can it be Useful?
+## Are the facts and sources cited legit?
+
+From what I can see, all four of the sources cited led to real web pages; all dates, authors, and in-text quotes were accurate and relevant to the web articles they were taken from. Whether those facts can be cross-referenced with other articles to confirm the legitimacy of the claims is another story. One of these claims was that 77% of healthcare professionals now work late or from home. This claim is verified as trustworthy, as I found another article published by the National Library of Medicine, a government-run website, which reported a survey result of 77.42%. And could corroborate this with the rest of the in-text quotes mentioned in the AI-written article.
 
 ## What are the drawbacks?
 
@@ -12,7 +14,7 @@ Often, the AI gets the bigger picture of the request I've asked it to generate i
 
 ## The Efficiency of Brevity: Reducing Operational Friction with Minimum Viable Documentation
 
-In the modern corporate landscape, the traditional operational manual—often a bloated, multi-hundred-page PDF—has become an artifact of a slower era. While intended to ensure consistency, these "tomes" frequently gather digital dust because they are too cumbersome to consult during the heat of daily operations. The result is a paradoxical workflow where documentation technically exists, yet error rates remain high and interruptions are frequent as employees rely on "tribal knowledge" rather than formal guides. To bridge this gap, organizations are increasingly turning toward **Minimum Viable Documentation (MVD)**: a lean, high-impact approach that prioritizes brevity and accessibility over exhaustive detail.
+In the modern corporate landscape, the traditional operational manual—often a bloated, multi-hundred-page PDF—has become an artifact of a slower era. While intended to ensure consistency, these "tomes" frequently gather digital dust because they are too cumbersome to consult during the heat of daily operations. The result is a paradoxical workflow where documentation technically exists, yet error rates remain high, and interruptions are frequent as employees rely on "tribal knowledge" rather than formal guides. To bridge this gap, organizations are increasingly turning toward **Minimum Viable Documentation (MVD)**: a lean, high-impact approach that prioritizes brevity and accessibility over exhaustive detail.
 
 ### The Resistance to Formalism
 
